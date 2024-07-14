@@ -1,3 +1,3 @@
 <?php echo "<br>"; ?>
-<?php echo "<h3>Selamat Datang di Website Sistem Absensi Siswa.</h3>"; ?>
-<h1>hallo</h1>
+<?php echo "<h2>Selamat Datang di Website Sistem Absensi Siswa Yayasan ASHAABUL ARDHI (SAHABAT BUMI).</h2>"; ?>
+<img src="gambar/guru.jpg" alt="" width="1050" height="900">

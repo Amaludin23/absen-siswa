@@ -144,7 +144,7 @@ else {
                 </li>
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="" href="logout.php">
-<?php echo "Logout"; ?>
+                    <?php echo "Logout"; ?>
                    </a>
                 </li>
 
